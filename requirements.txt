@@ -1,0 +1,4 @@
+mkdir tp_inf232_notes && cd tp_inf232_notes
+python3 -m venv venv
+source venv/bin/activate
+pip install streamlit pandas matplotlib seaborn
